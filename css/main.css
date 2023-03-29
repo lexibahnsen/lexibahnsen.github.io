@@ -1,29 +1,29 @@
 <head>
   <style>
-  h1{
-   color:darkblue;
-   font-size:45px;
-   font-family:arial;
-  }
-  h2
-  {color:darkblue;
-   font-size:20px;
-   font-family:arial;
-  }
-  h3
-  {color:lightblue;
-   font-family:arial;
-   }
-  p
-  {color:darkblue;
-   font-family:arial;
-   } 
-   ul
-   {color:darkblue;
-   font-family:arial;
-   }
-   body
-   {background-color:rgb(225, 246, 255)
-   }
+    h1{
+      color:darkblue;
+      font-size:45px;
+      font-family:arial;
+    }
+    h2{
+      color:darkblue;
+      font-size:20px;
+      font-family:arial;
+    }
+    h3{
+      color:lightblue;
+      font-family:arial;
+    }
+    p{
+      color:darkblue;
+      font-family:arial;
+    } 
+    ul{
+      color:darkblue;
+      font-family:arial;
+    }
+    body{
+      background-color:rgb(225, 246, 255)
+    }
   </style>
 </head>

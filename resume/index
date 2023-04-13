@@ -8,8 +8,11 @@
 <body>
 <nav>
   <h1>Lexi Bahnsen</h1>
-  <img 
-  <p>Paragraph</p>
+  <img src="images/LexiBusinessPhoto.jpg" alt="Profile Pic" width="300">
+  <ul>
+  <li>Education</li>
+  <li>Previous Experience</li>
+  <li>Skills</li>
   <p>  <a href="index.html"> <img src="images/button_home.png" alt="Home Page"></a> </p>
 </body>
     </html>

@@ -6,8 +6,16 @@
    <link rel="stylesheet" href="resume/main.css">
   </head>
 <body>
-  <h1>Page Title</h1>
-  <p>Paragraph</p>
+  <h1>Additional Experience</h1>
+  <section>
+  <p>UNC Christian Challenge Club</p>
+  <p>Intern at Double Check Arena, Elite Equestrian Facility May 2021-Jan 2023</p>
+  <p>Kids Hope USA Mentor, Maplewood Elementary School Jan 2022- May 2022</p>
+  <p> Volunteer Barista, Zoe’s Cafe Jan 2022- Present</p>
+  <p>National Society of Leadership and Success Nominee 2022</p>
+  <p>National Society of Collegiate Scholars Nominee 2022</p>
+  <p>UNCO Honors program Nominee</p>
+  </section>
   <p>  <a href="index.html"> <img src="images/button_home.png" alt="Home Page"></a> </p>
 </body>
     </html>

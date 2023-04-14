@@ -1,6 +1,10 @@
+.content
+{
+   margin: auto;
+}
 body
 {
-  background-color:rgb(225, 246, 255)
+  background-color:rgb(125, 146, 155)
 }
 h1
 {
@@ -11,7 +15,7 @@ h1
 h2
 {
   color:darkblue;
-  font-size:20px;
+  font-size:30px;
   font-family:arial;
 }
 h3
@@ -37,17 +41,3 @@ img
   margin:10px;
 }
  
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
